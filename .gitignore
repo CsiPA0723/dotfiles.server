@@ -1,0 +1,17 @@
+/*
+
+!.gitignore
+!.gitmodules
+
+# Submodules
+!/nvim
+
+# Dirs
+!/kitty
+!/lazygit
+!/tmux
+/tmux/plugins
+!/zsh-config
+!/yazi
+
+# Files
