@@ -143,7 +143,7 @@ unset key
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 # eval "$(oh-my-posh init --config 'https://raw.githubusercontent.com/CsiPA0723/csipa0723/main/config.omp.json' zsh)"
 
-OMP_CONFIG=$HOME/Personal/CsiPA0723/server.omp.toml
+OMP_CONFIG=$HOME/Personal/csipa0723/server.omp.toml
 [[ -f $OMP_CONFIG ]] || OMP_CONFIG="https://raw.githubusercontent.com/CsiPA0723/csipa0723/main/server.omp.toml"
 
 eval "$(oh-my-posh init --config $OMP_CONFIG zsh)"
