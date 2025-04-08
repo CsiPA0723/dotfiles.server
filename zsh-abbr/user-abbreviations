@@ -1,5 +1,7 @@
 abbr "btw"="fastfetch -c neofetch.jsonc"
 abbr "clr"="clear"
+abbr "dk"="docker"
+abbr "dkc"="docker compose"
 abbr "fwcli"="firewall-cmd"
 abbr "gd"="git difftool --no-symlinks --dir-diff"
 abbr "icat"="kitten icat"
