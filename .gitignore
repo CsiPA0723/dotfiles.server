@@ -5,13 +5,13 @@
 
 # Submodules
 !/nvim
+!/zsh-config
 
 # Dirs
-!/kitty
 !/lazygit
 !/tmux
 /tmux/plugins
-!/zsh-config
+!/zsh-abbr
 !/yazi
 
 # Files
