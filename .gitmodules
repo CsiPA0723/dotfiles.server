@@ -1,7 +1,7 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:CsiPA0723/nvim-config.git
-	branch = tty-compat
+	branch = server
 
 [submodule "zsh-config"]
 	path = zsh-config
